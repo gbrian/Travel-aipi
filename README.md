@@ -1,3 +1,5 @@
+[![Join the chat at https://gitter.im/travel-aipi/Lobby](https://badges.gitter.im/travel-aipi/Lobby.svg)](https://gitter.im/travel-aipi/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # Travel-aipi
 AI powered Travel API. 
 
