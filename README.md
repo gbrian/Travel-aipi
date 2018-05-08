@@ -16,3 +16,5 @@ AI powered Travel API.
   * dotAI 2017 - Pierre Gutierrez - Pragmatic Deep Learning for image labelling https://www.youtube.com/watch?v=J7qpJiJtZ2M
   * Dataiku https://www.dataiku.com/
   * AI for hotel picture https://www.linkedin.com/pulse/open-source-ai-image-classification-gustavo-brian-n%C3%BA%C3%B1ez-segade/
+
+## *Powered by <a href="https://github.com/repofunding">@repofunding*<img src="https://avatars1.githubusercontent.com/u/38230168?s=460&v=4" width="32" height="32"/></a>
