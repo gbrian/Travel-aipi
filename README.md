@@ -9,7 +9,9 @@ AI powered Travel API.
  * **Recommendation:**: *Travelers also view...* Receive related content based on travelers search.
  * **Booking score**: All results are scored 0..1 as potential booking.
  * **Theme**: Product type, images and prices recommended for this traveler: *family, business, romantic, aventure, ...*
- * **Ancialliary**: Get a list ofpotential ancilliary products to offer to traveler
+ * **Ancialliary**: Get a list of potential ancilliary products to offer to the traveler.
+ * **Fraud detection**: Early fraud prevention.
+ * **Multiprovider product mapping**: Link similar products between providers.
  
  
  ## References
