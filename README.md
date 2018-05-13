@@ -41,4 +41,4 @@ AI powered Travel API.
  * **Travelport**: 
    * https://www.travelport.com/sites/default/files/brochure--were-redefining-opportunities-with-our-open-platform--uAPI.pdf
 
-## *Powered by <a href="https://github.com/repofunding">@repofunding*<img src="https://avatars1.githubusercontent.com/u/38230168?s=460&v=4" width="32" height="32"/></a>
+## *Powered by <a href="https://github.com/gbrian/repofunding">@repofunding*<img src="https://avatars1.githubusercontent.com/u/38230168?s=460&v=4" width="32" height="32"/></a>
