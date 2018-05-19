@@ -1,5 +1,5 @@
 function AccommodationImageService(){
-  this.URL_BASE = '/accommmodation/image';
+  this.URL_BASE = 'accommmodation/image';
 };
 AccommodationImageService.prototype.apiRoute = function(){
   return this.URL_BASE;
