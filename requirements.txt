@@ -8,3 +8,4 @@ gunicorn==19.0.0
 itsdangerous==0.24
 pytz==2014.4
 six==1.10.0
+tensorflow==1.8.0

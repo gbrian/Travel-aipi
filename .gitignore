@@ -1,2 +1,4 @@
 node_modules/
 *.pyc
+src/models/accommodation/image/data/
+src/models/accommodation/image/output/
